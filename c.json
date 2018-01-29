@@ -1,0 +1,74 @@
+{
+    "txid" : "5c37e664bbb19cf8f3a82c98cd215b32b044ac2dac63e9f98f81b89043582299",
+    "version" : 1,
+    "locktime" : 0,
+    "vin" : [
+        {
+            "txid" : "0b2dc3d3f899527e06080e7fe652527016324f0b72f19d27c51455055857a353",
+            "vout" : 0,
+            "scriptSig" : {
+                "asm" : "",
+                "hex" : ""
+            },
+            "sequence" : 4294967295
+        }
+    ],
+    "vout" : [
+        {
+            "value" : 0.00000000,
+            "n" : 0,
+            "scriptPubKey" : {
+                "asm" : "OP_DUP OP_HASH160 e10f44574e2d08489d704354a01c04b697cd034c OP_EQUALVERIFY OP_CHECKSIG 73706b71705252e67f0e08067e5299f8d3c32d0b6400000000000000 OP_DROP",
+                "hex" : "76a914e10f44574e2d08489d704354a01c04b697cd034c88ac1c73706b71705252e67f0e08067e5299f8d3c32d0b640000000000000075",
+                "reqSigs" : 1,
+                "type" : "pubkeyhash",
+                "addresses" : [
+                    "1MX1KvrtxPRRjm3gyv7WyEDmU7bPHnV9sG"
+                ]
+            },
+            "assets" : [
+                {
+                    "name" : "cash",
+                    "issuetxid" : "0b2dc3d3f899527e06080e7fe652527016324f0b72f19d27c51455055857a353",
+                    "assetref" : "8-265-11531",
+                    "qty" : 100.00000000,
+                    "raw" : 100,
+                    "type" : "transfer"
+                }
+            ],
+            "permissions" : [
+            ],
+            "items" : [
+            ]
+        },
+        {
+            "value" : 0.00000000,
+            "n" : 1,
+            "scriptPubKey" : {
+                "asm" : "OP_DUP OP_HASH160 d86c8bd142b8d97acd8a1411452cc03c1e162677 OP_EQUALVERIFY OP_CHECKSIG 73706b71705252e67f0e08067e5299f8d3c32d0b8403000000000000 OP_DROP",
+                "hex" : "76a914d86c8bd142b8d97acd8a1411452cc03c1e16267788ac1c73706b71705252e67f0e08067e5299f8d3c32d0b840300000000000075",
+                "reqSigs" : 1,
+                "type" : "pubkeyhash",
+                "addresses" : [
+                    "1LjLzMavdVAP5WiJc6N49KaNtp5CHrVJpU"
+                ]
+            },
+            "assets" : [
+                {
+                    "name" : "cash",
+                    "issuetxid" : "0b2dc3d3f899527e06080e7fe652527016324f0b72f19d27c51455055857a353",
+                    "assetref" : "8-265-11531",
+                    "qty" : 900.00000000,
+                    "raw" : 900,
+                    "type" : "transfer"
+                }
+            ],
+            "permissions" : [
+            ],
+            "items" : [
+            ]
+        }
+    ],
+    "data" : [
+    ]
+}
